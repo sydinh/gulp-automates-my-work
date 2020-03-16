@@ -1,6 +1,6 @@
 # gulp-automates-my-work
 
-My simple gulp in 2020 :white_check_mark:
+GulpJS is a streaming build system, use it in my work to automate a lot of boring stuff.
 
 ## Requirements
 
